@@ -1,0 +1,9 @@
+Windows
+
+https://www.anaconda.com/download/　よりAnacondaをインストール
+
+今回は仮想環境を用いてtensorflowを動かすためEnvelonmentalsを選択しCreateから新しい仮想環境を作成する。
+今回はTensorflowとした。
+
+pip install tensorflow
+と入力しtensorflowをインストール。
